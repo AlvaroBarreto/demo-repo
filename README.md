@@ -1,3 +1,3 @@
 # Demo
 
-My first lesson in github
+My first lesson in github!
